@@ -1,0 +1,14 @@
+#log{
+    float: left;
+    margin-left: -150px;
+    
+  }
+  .nav-links{
+      float: right;
+      margin-right: -150px;
+      padding: 0px;
+  }
+  #toplink{
+      padding: 10px;
+  }
+  

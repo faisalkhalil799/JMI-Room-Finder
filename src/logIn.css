@@ -1,0 +1,12 @@
+#logdet{
+    height: 30px;
+    width: 250px;
+    line-height: 1.6;
+  }
+  #bglog{
+    background-image:url('imglogin.jpg');
+    padding: 110px;
+  }
+  .loghead{
+    color:rgba(250, 215, 16, 0.842);
+  }

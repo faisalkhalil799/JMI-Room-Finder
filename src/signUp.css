@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    /* background-image:url('imgsignup.jpg'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:1800px 800px;
+    ;
+  }
+  #bgsign{
+    background-image:url('imgsignup.jpg');
+    padding: 70px;
+  }
+  .signup{
+      color: white;
+      text-align: left;
+  }
+  #details{
+    height: 30px;
+    width: 250px;
+    line-height: 1.6;
+  }
+  /* #btn{
+      background-color: dodgerblue;
+      border-radius: 10%;
+      width: 80px;
+      height: 40px;
+      text-size-adjust: ;
+  } */
